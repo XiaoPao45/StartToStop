@@ -1,0 +1,5 @@
+name: StartToStop
+version: '${project.version}'
+main: com.startToStop.StartToStop
+api-version: '1.21'
+authors: [ XiaoPao45 ]
